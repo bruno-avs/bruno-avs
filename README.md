@@ -4,14 +4,14 @@
 - ⚡ Curiosidades: Tenho 20 anos, gosto de aprender coisas novas e programar.
 <div align="center">
   <a href="https://github.com/bruno-avs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruno-avs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-avs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno-avs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-avs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+  <img align="right" alt="gif-page" height="175" src="https://i.pinimg.com/originals/0d/e9/79/0de97945dc3e12660a6b7c5da53be448.gif">
 </div>
 
   ##
