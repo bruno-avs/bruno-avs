@@ -1,5 +1,5 @@
 ## Oi!! me chamo bruno alves, sejá bem vindo(a) ao meu repositório!!.
-- 🔭 Estou trabalhando em nada no momento.
+- 🔭 Não estou trabalhando no momento.
 - 🌱 Estou aprendendo HTML5, CSS3 e JS.
 - ⚡ Curiosidades: Tenho 20 anos, gosto de aprender coisas novas e programar.
 <div align="center">
